@@ -1,0 +1,27 @@
+.marg{
+    margin-right:20px ;margin-left: 20px;
+}
+.resize{
+    width:30px;
+    height:30px;
+    padding-right: 5px;
+}
+
+
+
+.fontsize{
+    font-size: 120%;
+    margin-bottom: 0px;
+    padding-top: 6px;
+}
+
+.showcase{
+    margin: 50px;
+}
+
+.size{
+    width:50%;
+    height:auto;
+    margin:50px;
+    margin-bottom: 20px;
+}
